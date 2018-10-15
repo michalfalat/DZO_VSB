@@ -1,0 +1,13 @@
+﻿  DIP.cpp
+c:\users\asus\documents\projekty\dip\dip\dip.cpp(59): warning C4244: '+=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\users\asus\documents\projekty\dip\dip\dip.cpp(67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\documents\projekty\dip\dip\dip.cpp(69): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  DIP.vcxproj -> C:\Users\Asus\Documents\Projekty\DIP\x64\Debug\DIP.exe
